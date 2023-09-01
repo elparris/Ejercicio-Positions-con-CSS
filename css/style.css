@@ -1,0 +1,104 @@
+.fondo{
+    width: 1000px;
+    height: 1000px;
+    text-align: center;
+    margin: 100px auto;
+    position: relative;
+    z-index: 0;
+    background: aquamarine;
+}
+
+.cara{
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    z-index: 1;
+
+}
+
+.nariz{
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    z-index: 5;
+}
+
+.bigote{
+    top: 180px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    z-index: 3;
+}
+
+.sombrero{
+    top: -420px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    z-index: 8;
+}
+
+ .ojoIzquierdo {
+        top: -170px;
+        left: -88px;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        position: absolute;
+        z-index: 4;
+    }
+
+.orejaIzquierda {
+    top: 0;
+    left: 0;
+    right: 283px;
+    bottom: 154px;
+    margin: auto;
+    position: absolute;
+    z-index: 0;
+}
+.orejaDerecha {
+    top: 0;
+    left: 283px;
+    right: 0px;
+    bottom: 154px;
+    margin: auto;
+    position: absolute;
+    z-index: 0;
+}
+.pieIzquierdo {
+    top: 434px;
+    left: 40px;
+    right: 185px;
+    bottom: 50px;
+    margin: auto;
+    position: absolute;
+    z-index: 0;
+}
+
+.pieDerecho {
+    top: 434px;
+    left: 185px;
+    right: 40px;
+    bottom: 50px;
+    margin: auto;
+    position: absolute;
+    z-index: 0;
+}
+.ojoDerecho{
+    top: 369px;
+    position: absolute;
+    z-index: 4;
+    right: 411px;
+}
